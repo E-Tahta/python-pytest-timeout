@@ -1,3 +1,10 @@
+python-pytest-timeout (1.0.0-1.2pardus1) unstable; urgency=medium
+
+  * Remove gbp.conf for clean build
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 21 Nov 2018 16:09:14 +0300
+
 python-pytest-timeout (1.0.0-1.1~bpo8+1) jessie-backports; urgency=medium
 
   * Rebuild for jessie-backports.
